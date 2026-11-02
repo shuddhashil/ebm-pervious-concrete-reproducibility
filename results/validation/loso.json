@@ -1,0 +1,20 @@
+{
+ "rejected": 9,
+ "r2": -1.1850146966925692,
+ "rmse": 12.9289070857681,
+ "median_rho": 0.588872377111002,
+ "positive_rho": 19,
+ "between_study_share": 60.087097962512594,
+ "offset_share": 74.55870443512018,
+ "r2_offset_removed": 0.4441039528783811,
+ "rmse_offset_removed": 6.521258654578166,
+ "max_abs_rho_offset_vs_inputs": 0.18463347076896627,
+ "median_gap_between_tol0.25": 10.321000000000002,
+ "median_gap_within_tol0.25": 1.157,
+ "median_gap_between_tol0.5": 5.9265,
+ "median_gap_within_tol0.5": 1.6117,
+ "porosity_rows": 245,
+ "porosity_studies": 11,
+ "porosity_rho": -0.6545454545454547,
+ "porosity_p": 0.028864598957001886
+}

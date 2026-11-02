@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.7.2
+interpret==0.6.10
+joblib
+matplotlib
+tqdm
+openpyxl
+tabulate

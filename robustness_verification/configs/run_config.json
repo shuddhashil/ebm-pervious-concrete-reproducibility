@@ -1,0 +1,46 @@
+{
+  "support": {
+    "kde_cutoff": 0.1,
+    "mahal_quantile": 0.95,
+    "local_tolerance_mpa": 6.0,
+    "include_nn_hard_limit": false,
+    "nn_hard_limit": 2.0,
+    "active_tolerance": 0.02
+  },
+  "sobol_primary_power": 17,
+  "qmc_powers": [
+    15,
+    16,
+    17
+  ],
+  "scrambles": 16,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "refine_top_n": 50,
+  "timestamp_utc": "2026-11-01T16:45:41.715023Z",
+  "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:42:21) [MSC v.1916 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.7.2",
+    "interpret": "0.6.10"
+  }
+}
