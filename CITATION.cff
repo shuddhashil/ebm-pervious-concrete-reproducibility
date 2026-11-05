@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Evidence-supported strength-carbon design space for pervious concrete using interpretable machine learning: data and code"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/shuddhashil/ebm-pervious-concrete-reproducibility"
+authors:
+  - family-names: Ghosh
+    given-names: Shuddhashil
+  - family-names: Singh
+    given-names: Priyansh
+keywords:
+  - pervious concrete
+  - explainable boosting machine
+  - applicability domain
+  - fly ash
+  - embodied carbon
+  - design space

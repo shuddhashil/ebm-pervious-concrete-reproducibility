@@ -1,0 +1,7 @@
+target_MPa,nn_distance,observations_within_1,studies_within_1,studies_among_5_nn
+10,0.272,12,1,1
+14,0.257,13,1,1
+17,0.088,15,1,1
+20,0.316,28,1,1
+24,1.171,0,0,3
+28,0.916,2,1,1

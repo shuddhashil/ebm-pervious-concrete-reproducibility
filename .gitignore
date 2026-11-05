@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 *.log
+robustness_verification/outputs/
+robustness_verification/figures/
